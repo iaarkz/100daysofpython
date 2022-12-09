@@ -57,4 +57,4 @@ else:
   elif user_choice == 1 and pc_choice == 1:
     print("You won!")
   elif user_choice == 1 and pc_choice == 3:
-    print("draw")
+    print("Draw, play again.")
