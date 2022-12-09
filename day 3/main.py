@@ -44,3 +44,5 @@ if first_choice == "left":
     print("Attacked by trout.\nGame Over.")
 else: 
   print("Fall into a hole.\nGame Over")
+
+  #another test for some purposes
